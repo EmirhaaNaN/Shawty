@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Freelance  
   
 
-- 🌱 I’m currently learning typescript and mongoDB  
+- 🌱 I’m currently learning CSharp
   
 
 - ❓ Ask me everything about Discord.js and I'll answer  
@@ -91,12 +91,6 @@
 
 ## 
   
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2lt7by6fn27z6aahnytin2hlu&cover_image=true&theme=default" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=EmirhaaNaN&&style=flat-square" align="center" />
