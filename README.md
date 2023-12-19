@@ -20,7 +20,7 @@
 <a href="https://instagram.com/emirhanakpinar58" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/EmirhaaNaN" target="_blank">
+<a href="https://github.com/EmirhanAkpinar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -30,7 +30,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EmirhaaNaN&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EmirhanAkpinar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -39,7 +39,7 @@
   
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=EmirhaaNaN&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=EmirhanAkpinar&&style=flat-square" align="center" />
 </div>  
   
 
