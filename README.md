@@ -1,12 +1,13 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://gifdb.com/images/high/mochi-kawaii-hello-greetings-eur6bkbbzdbf12xr.gif)" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">My Name Is Emirhan.</div>  
   
 
-- 🔭 I’m currently working on @AWMBilisim  
+- 🔭 I’m currently working on <a href="https://sunucuduragi.com">my own business</a>. 
+- My interest in software will never end.
     
   
 
